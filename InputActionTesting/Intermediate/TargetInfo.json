@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InputActionTesting",
+			"Path": "..\\Source\\InputActionTesting.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InputActionTestingEditor",
+			"Path": "..\\Source\\InputActionTestingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

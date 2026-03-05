@@ -1,13 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.6",
+	"EngineAssociation": "{D3164706-424F-374D-6396-418BB1307E53}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
 			"Name": "InputActionTesting",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [

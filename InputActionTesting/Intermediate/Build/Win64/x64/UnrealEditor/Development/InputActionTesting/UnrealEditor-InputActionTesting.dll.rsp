@@ -20,9 +20,9 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/lib/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/ucrt/x64"
-/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/um/x64"
+/LIBPATH:"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/lib/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/ucrt/x64"
+/LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/um/x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -36,13 +36,15 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/conne/Documents/Unreal Projects/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/InputActionTestingEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/conne/Documents/Unreal Projects/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/InputActionTesting.cpp.obj"
-"C:/Users/conne/Documents/Unreal Projects/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/PerModuleInline.gen.cpp.obj"
-"C:/Users/conne/Documents/Unreal Projects/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/Default.rc2.res"
+"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/InputActionTestingEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/Module.InputActionTesting.gen.cpp.obj"
+"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/InputActionTesting.cpp.obj"
+"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/PerModuleInline.gen.cpp.obj"
+"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/AMyCharacter.cpp.obj"
+"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Intermediate/Build/Win64/x64/UnrealEditor/Development/InputActionTesting/Default.rc2.res"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
-"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/InputCore/UnrealEditor-InputCore.lib"
 "../Plugins/EnhancedInput/Intermediate/Build/Win64/x64/UnrealEditor/Development/EnhancedInput/UnrealEditor-EnhancedInput.lib"
 "delayimp.lib"
@@ -70,6 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/conne/Documents/Unreal Projects/InputActionC-Testing_Uni/InputActionTesting/Binaries/Win64/UnrealEditor-InputActionTesting.dll"
-/PDB:"C:/Users/conne/Documents/Unreal Projects/InputActionC-Testing_Uni/InputActionTesting/Binaries/Win64/UnrealEditor-InputActionTesting.pdb"
+/OUT:"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Binaries/Win64/UnrealEditor-InputActionTesting.dll"
+/PDB:"C:/Users/2500411/Documents/GitHub/InputActionC-Testing_Uni/InputActionTesting/Binaries/Win64/UnrealEditor-InputActionTesting.pdb"
 /ignore:4078

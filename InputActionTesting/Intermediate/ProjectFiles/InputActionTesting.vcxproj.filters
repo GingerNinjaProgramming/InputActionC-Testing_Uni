@@ -11,6 +11,7 @@
     <None Include="..\..\Source\InputActionTestingEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,12 @@
     <Filter Include="Source\InputActionTesting">
       <UniqueIdentifier>{3E54AF81-1BB4-349F-A794-52F34E0504AD}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\InputActionTesting\AMyCharacter.cpp">
+      <Filter>Source\InputActionTesting</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InputActionTesting\AMyCharacter.h">
+      <Filter>Source\InputActionTesting</Filter>
+    </ClInclude>
     <None Include="..\..\Source\InputActionTesting\InputActionTesting.Build.cs">
       <Filter>Source\InputActionTesting</Filter>
     </None>

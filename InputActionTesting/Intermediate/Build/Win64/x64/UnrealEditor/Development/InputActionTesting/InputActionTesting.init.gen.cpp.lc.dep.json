@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2500411\\documents\\github\\inputactionc-testing_uni\\inputactiontesting\\intermediate\\build\\win64\\unrealeditor\\inc\\inputactiontesting\\uht\\inputactiontesting.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2500411\\documents\\github\\inputactionc-testing_uni\\inputactiontesting\\intermediate\\build\\win64\\x64\\inputactiontestingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2500411\\documents\\github\\inputactionc-testing_uni\\inputactiontesting\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inputactiontesting\\definitions.inputactiontesting.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

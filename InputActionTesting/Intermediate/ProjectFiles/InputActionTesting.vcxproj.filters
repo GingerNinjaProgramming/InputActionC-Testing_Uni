@@ -18,6 +18,9 @@
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
@@ -30,12 +33,6 @@
     <Filter Include="Source\InputActionTesting">
       <UniqueIdentifier>{3E54AF81-1BB4-349F-A794-52F34E0504AD}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\InputActionTesting\AMyCharacter.cpp">
-      <Filter>Source\InputActionTesting</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\InputActionTesting\AMyCharacter.h">
-      <Filter>Source\InputActionTesting</Filter>
-    </ClInclude>
     <None Include="..\..\Source\InputActionTesting\InputActionTesting.Build.cs">
       <Filter>Source\InputActionTesting</Filter>
     </None>
@@ -43,6 +40,12 @@
       <Filter>Source\InputActionTesting</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\InputActionTesting\InputActionTesting.h">
+      <Filter>Source\InputActionTesting</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InputActionTesting\MyCharacter.cpp">
+      <Filter>Source\InputActionTesting</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InputActionTesting\MyCharacter.h">
       <Filter>Source\InputActionTesting</Filter>
     </ClInclude>
   </ItemGroup>

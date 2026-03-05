@@ -1,9 +1,5 @@
 {
 	"RemapUnityFiles": 
 	{
-		"Module.InputActionTesting.gen.cpp.obj": [
-			"AMyCharacter.gen.cpp.obj",
-			"InputActionTesting.init.gen.cpp.obj"
-		]
 	}
 }

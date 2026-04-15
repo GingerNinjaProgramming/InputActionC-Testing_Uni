@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Introduction (≈150 words)
+## Introduction 
 
 In this task I was tasked with implementing one input action (movement or camera look) using Enhanced Input in C++ and expose at least one parameter to Blueprint for tuning and demonstrate it working and explain how it could support another input device (e.g., gamepad or touch).
 
@@ -12,7 +12,7 @@ This task is important as being able to implement input systems and having good 
 
 ---
 
-## 2. Implementation (≈200 words)
+## Implementation
 
 This was accomplished by first making a C++ character class in unreal which automatically creates boiler plate for a ACharacter in C++ to be modified to meet the purposes of this task.
 
@@ -47,7 +47,7 @@ Also to note as with most C++ work some blueprints were made to facilitated the 
 
 ---
 
-## 3. Outcome (≈150 words)
+## Outcome
 
 The final result has the player being able to move in all 4 of the cardinal directions at a press of the WASD keys with all primary logic coming from the C++ class with exposed values for the mapping context, input action and the movement speed.
 
@@ -57,13 +57,13 @@ I can confirm all task requirments have been met as i have implemented one movem
 
 ---
 
-## 4. Bibliography
+## Bibliography
 
 Unreal Engine 5.7 Documentation | Unreal Engine 5.7 Documentation | Epic Developer Community (s.d.) At: https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-7-documentation (Accessed  03/12/2025).
 
 
 ---
 
-## 5. AI Usage Declaration
+## AI Usage Declaration
 
 Chatgpt - General Debugging Help 
